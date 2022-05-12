@@ -1,0 +1,129 @@
+/* GENERAL SETTINGS */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(51, 180, 231);
+}
+
+header{
+    background-color: aliceblue;
+    padding: 1.5em;
+}
+
+/* MAIN SECTION */
+.container{
+    background-color: aliceblue;
+    margin: 7em auto;
+    width: 70%;
+}
+
+.main-section{
+    padding: 2em;
+    border-bottom: 2px solid rgb(51, 180, 231);
+}
+
+.blue-button{
+    background-color: rgb(51, 180, 231);
+    border-radius: 4px;
+    color: white;
+    font-size: 15px;
+    border-color: rgb(51, 180, 231);
+    height: 40px;
+    width: 100px;
+}
+
+.white-button{
+    color: rgb(51, 180, 231);
+    border: 1px solid rgb(51, 180, 231);
+    border-radius: 4px;
+    font-size: 15px;
+    height: 40px;
+    width: 150px;
+}
+
+/* SECOND SECTION */
+.second-section{
+    padding: 1em 1em;
+}
+
+.list-text{
+    margin: 1em 0;
+    margin-right: 20px;
+}
+
+.today-section{
+    margin-top: 20px;
+}
+
+.check-icon{
+    color: rgb(80, 223, 168);
+    border: 1px solid rgb(80, 223, 168);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block;
+    height: 20px;
+    width:  20px;
+    margin: 6px;
+}
+
+.unchecked-icon{
+    color: rgb(223, 28, 28);
+    border: 1px solid rgb(223, 28, 28);
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    display: inline-block;
+    height: 20px;
+    width:  20px;
+    margin: 6px;
+}
+
+/* GENERAL TAG */
+.tag{
+    color: aliceblue;
+    /* display: inline-block;
+    border-radius: 50%;
+    width: 6em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center; */
+    border: none;
+    padding: 10px 20px;
+    margin: 4px 2px;
+    border-radius: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* TAG COLORS */
+.editorial{
+    background-color: rgb(51, 180, 231);
+}
+
+.various{
+    background-color: rgb(156, 74, 156);
+}
+
+.recruiting{
+    background-color: rgb(103, 179, 153);
+}
+
+.mobile{
+    background-color: rgb(236, 80, 33);
+}
+
+.website{
+    background-color: palevioletred;
+}
+
+.sales{
+    background-color: limegreen;
+}
+
