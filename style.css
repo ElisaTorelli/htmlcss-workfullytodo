@@ -87,12 +87,6 @@ header{
 /* GENERAL TAG */
 .tag{
     color: aliceblue;
-    /* display: inline-block;
-    border-radius: 50%;
-    width: 6em;
-    height: 2em;
-    line-height: 2em;
-    text-align: center; */
     border: none;
     padding: 10px 20px;
     margin: 4px 2px;
