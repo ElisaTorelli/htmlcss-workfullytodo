@@ -15,7 +15,15 @@ header{
     padding: 1.5em;
 }
 
-/* MAIN SECTION */
+h3{
+    margin: 8px;
+}
+
+ul{
+    list-style: none;
+}
+
+/* MAIN SECTION (BUTTONs)*/
 .container{
     background-color: aliceblue;
     margin: 7em auto;
@@ -46,7 +54,7 @@ header{
     width: 150px;
 }
 
-/* SECOND SECTION */
+/* SECOND SECTION (MESSAGES LIST)*/
 .second-section{
     padding: 1em 1em;
 }
@@ -96,7 +104,7 @@ header{
     display: inline-block;
 }
 
-/* TAG COLORS */
+/* TAG COLORS OPTION*/
 .editorial{
     background-color: rgb(51, 180, 231);
 }
